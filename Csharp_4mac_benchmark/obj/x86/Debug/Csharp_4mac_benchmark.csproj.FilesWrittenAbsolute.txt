@@ -1,0 +1,5 @@
+/Users/flum/Projects/Csharp_4mac_benchmark/Csharp_4mac_benchmark/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/flum/Projects/Csharp_4mac_benchmark/Csharp_4mac_benchmark/bin/Debug/Csharp_4mac_benchmark.exe.mdb
+/Users/flum/Projects/Csharp_4mac_benchmark/Csharp_4mac_benchmark/bin/Debug/Csharp_4mac_benchmark.exe
+/Users/flum/Projects/Csharp_4mac_benchmark/Csharp_4mac_benchmark/obj/x86/Debug/Csharp_4mac_benchmark.exe
+/Users/flum/Projects/Csharp_4mac_benchmark/Csharp_4mac_benchmark/obj/x86/Debug/Csharp_4mac_benchmark.exe.mdb
